@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-class Maine {
+class MainMe {
     public static void main(String args[]) {
 
         try {
